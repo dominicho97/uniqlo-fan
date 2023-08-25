@@ -1,4 +1,6 @@
 # uniqlo-fan
+
+Using Web Scraping and Data Visualizations to present a comparative overview of discounted products from the UNIQLO clothing store.
  
 
 Try the interactive notebook here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dominicho97/uniqlo-fan/master?labpath=scrape_final.ipynb)
