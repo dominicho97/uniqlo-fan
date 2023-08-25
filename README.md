@@ -1,3 +1,4 @@
 # uniqlo-fan
  
-https://notebooks.gesis.org/binder/jupyter/user/dominicho97-uniqlo-fan-55cgwfnp/doc/tree/scrape_final.ipynb
+
+https://mybinder.org/v2/gh/dominicho97/uniqlo-fan/b9da1846531554184589c6f3fe8d38ad4deedcef?urlpath=lab%2Ftree%2Fscrape_final.ipynb
